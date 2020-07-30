@@ -22,7 +22,7 @@ To compile the contracts, run `truffle compile`. To run the test automation for 
 
 ## Permissions
 
-I published this code for showcase purposes only. I provide no guarantees and shall not be held responsible for the use of this code for any purpose, including, but not limited to, reuse with or without modifications in academic or industrial projects. The project intentionally does not have a LICENSE file. Please read: https://choosealicense.com/no-permission/
+Code for showcase purposes only. No guarantees upon the use of this code for any purpose, including, but not limited to, reuse with or without modifications in academic or industrial projects. :) The project intentionally does not have a LICENSE file. Please read: https://choosealicense.com/no-permission/
 
 ## Contributors
 
